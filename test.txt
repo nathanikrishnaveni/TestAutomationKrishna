@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 4CF9-A0D6
+
+ Directory of C:\Users\KrishnaveniParitala\OneDrive - IBM\Desktop\MyProject
+
+02/26/2026  10:08 AM    <DIR>          .
+02/26/2026  09:14 AM    <DIR>          ..
+02/26/2026  10:08 AM                67 test.txt
+               1 File(s)             67 bytes
+               2 Dir(s)  345,101,082,624 bytes free
